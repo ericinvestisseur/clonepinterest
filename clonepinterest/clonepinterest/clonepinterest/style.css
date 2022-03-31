@@ -1,0 +1,162 @@
+
+#monConteneur{
+    height: 2000px;
+}
+.bord{border:2px solid green;
+}
+.navbar-search .search-query {
+    padding-left: 29px;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ5JREFUeNpi+P//PwMQMANxERCfAeI/UBrEZwbJQ9WAFR0A4u1AbAnEbFB6O1ScGaawGoi3wHQiYyBYDZKHKbwHxLo4FOqC5GEKf4Ksw6EQ5IyfIDYTkPEUiNUZsAOQ+F9GRkYJEKcFiDficSOIcRjE4QTiY0C8DuRbqAJLKP8/FP9kQArHUiA+jySJjA8w4LAS5KZd0MAHhaccQIABALsMiBZy4YLtAAAAAElFTkSuQmCC);
+    background-repeat: no-repeat;
+    background-position: 12px 8px;
+}
+
+.navbar-search .search-query:focus, .navbar-search .search-query.focused {
+    padding-left: 30px;
+    background-position: 13px 9px;
+}
+.marron{
+    background-color: burlywood;
+    height: 650px;
+    width: 98%;
+}
+.marrondeux{
+    background-color:#fda161 ;
+    height: 172px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 25px; 
+
+}
+h5{
+    font-size:bold ;
+}
+.btn{
+    font-weight:bolder;
+}
+.marrontrois{
+    background-color:#fda161 ;
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 25px;  
+}
+.imageun{
+    width: 266px;
+    height:450px;
+}
+.position-relative{
+    right: 33.33%;
+}
+/*.d-flex{
+    width: 33%;
+}*/
+.un{
+    width: 33%;
+}
+.imagedeux{
+    border-radius: 20px;
+   
+}
+#vue{
+    height: 393.33px;
+    width: 448px;
+}
+.arrondi{
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;   
+}
+.imagelogo{
+    width: 30px;
+}
+#eric{
+    font-weight:bolder;  
+
+}
+
+.tx{
+    font-size:13px;
+}
+.trait{
+    text-decoration: none;
+    color: black;
+}
+#boutonplus{
+    height: 60px;
+    width: 40px;
+}
+#ligneh{
+    width: 40px;
+}
+.boutonpaysage{
+    background-color: #ddd;
+}
+#troispoint{
+    font: 2.5em sans-serif;
+}
+#glisser{
+    height: 454px;
+    border: dashed ;
+    color: #949191;
+    text-align: center;        
+}
+.flechehaut{
+    margin-top: 30%;
+}
+.fw-light{
+    font-size: 0.7em;
+}
+textarea{
+    border: 0; 
+    border-bottom: 1px solid black; 
+    opacity: 0.3;
+    resize : none;
+ min-width : 100px;
+ min-height : 50px;
+ max-width : 500px;
+ max-height : 100px;
+}
+textarea :focus{
+    outline: none;
+    border-bottom: 1px solid blue;
+}
+#margeselect{
+    margin-top: 100px;
+    font-weight: bolder;
+}
+#containercreerannonce2{
+    height: 800px;
+    width: auto;
+}
+.crayon{
+    margin-right: 60%;
+}
+#epingle{
+    width: 250px;
+    height: auto;
+}
+.cadre{
+    width: 260px;
+    height: 60px;
+    position: relative;
+    margin-top: 20px;
+}
+.cadreun{
+    width: 260px;
+    height: 60px;
+    margin-top: 100px;    
+}
+.principal{
+    ;
+    
+}
+  
+
+
+
+
+
+
+
+

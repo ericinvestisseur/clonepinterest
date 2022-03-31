@@ -1,0 +1,107 @@
+h1{font-size:35px;}
+body
+#block1{
+    color:white;
+    background-color: rgb(81, 158, 65);
+    width: 300px;
+    height: 1840px;
+    float: left;
+
+   
+
+    text-align: center;
+   }
+h3{
+    background-color: wheat;
+    color: rgb(13, 40, 156);
+    display: inline ;
+}
+#block2{
+   
+
+    width: 1000px;
+    height: 1840px;
+    float: right;
+}
+
+  
+  img {
+    width: 200px;
+    height:200px;
+    top: 40px;
+    left: 40px;
+    transform: translate(2px, -400px);}
+    .profil{
+    color:rgb(84, 106, 231);
+    background-color: wheat;
+    font-weight: bold;
+
+}
+.contact{
+    color:rgb(84, 106, 231);
+    background-color: wheat;
+    font-weight: bold;  
+} 
+.competences{
+    color:rgb(84, 106, 231);
+    background-color: wheat;
+    font-weight: bold; 
+}
+.centredinteret{
+    color:rgb(84, 106, 231);
+    background-color: wheat;
+    font-weight: bold;   
+}  
+h2{font-size :50px;}
+.filigrane{
+    border: solid red;
+            height: 160px;
+            width: 2000px;
+            text-align: center;
+            color: red;
+            opacity: 0.1;
+            font-size:140px; 
+    -webkit-transform: translate(150px) rotate(60deg);
+    -webkit-transform-origin: 0-250px;
+    transform: translate(150px) rotate(60deg);
+    transform-origin: 0-250px;}
+  .decalage{
+      margin-left: 40px;
+  }
+  .mobile-solid.icon {
+    color: #000;
+    position: absolute;
+    margin-left: 4px;
+    margin-top: 0px;
+    width: 12px;
+    height: 14px;
+    border-radius: 2px;
+    border-left: solid 1px currentColor;
+    border-right: solid 1px currentColor;
+    border-top: solid 3px currentColor;
+    border-bottom: solid 4px currentColor;
+  }
+  .moon-solid.icon:before {
+    content: '';
+    position: absolute;
+    left: 8px;
+    top: 3px;
+    width: 8px;
+    height: 10px;
+    color: #fff;
+    background-color: currentColor;
+    border-radius: 5px 0 0 5px;
+  }
+  .mobile-solid.icon:after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 5px;
+    height: 2px;
+    width: 2px;
+    border-radius: 50%;
+    color: white;
+    background-color: currentColor;
+
+
+  }
